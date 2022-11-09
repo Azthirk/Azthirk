@@ -27,7 +27,7 @@ Hello! 👋 My name is Agustín and I am a Full Stack developer with training at
   <a href="https://mi-scusi-books.vercel.app/book_details/635c7df4633c6074cec33389"><img width="45%" src="https://i.imgur.com/W4JbiBA.png"></a>
   <a href="https://mi-scusi-books.vercel.app"><img width="45%" src="https://i.imgur.com/hLMliOY.png"></a>
 </p>
-<a href="https://mi-scusi-books.vercel.app/">🎮 Visit site!✨</a>
+<a href="https://mi-scusi-books.vercel.app/">Visit site!✨</a>
 
 ### Weather App
 <p align="center">
