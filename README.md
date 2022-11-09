@@ -17,9 +17,9 @@ Hello! 👋 My name is Agustín and I am a Full Stack developer with training at
 
 ### Mi Scusi Book's
 <p>
-  <a href="https://mi-scusi-books.vercel.app/"><img height="130em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/home.jpeg"></a>
-  <a href="https://mi-scusi-books.vercel.app/books"><img height="130em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/allbooks.png"></a>
-  <a href="https://mi-scusi-books.vercel.app/login"><img height="130em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/login.png"></a>
+  <a href="https://mi-scusi-books.vercel.app/"><img  src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/home.jpeg"></a>
+  <a href="https://mi-scusi-books.vercel.app/books"><img src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/allbooks.png"></a>
+  <a href="https://mi-scusi-books.vercel.app/login"><img src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/login.png"></a>
 </p>
 <p>
   <a href="https://mi-scusi-books.vercel.app/"><img height="130em" src="https://github.com/JanoNanzer/JanoNanzer/blob/main/PF/profile.png"></a>
@@ -56,7 +56,7 @@ Hello! 👋 My name is Agustín and I am a Full Stack developer with training at
 
 <p align="left">
 <a href="mailto:agustinnicolas12340@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"  alt="jano nanzer" height="28" width="32" /></a>
-<a href="www.linkedin.com/in/agustín-quiroga-b8325922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AgusQuiroga" height="30" width="40" margin="10"  /></a>
+<a href="https://www.linkedin.com/in/agustín-quiroga-b8325922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AgusQuiroga" height="30" width="40" margin="10"  /></a>
 </p>
 
 
