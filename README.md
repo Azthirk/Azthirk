@@ -18,9 +18,10 @@ Hello! 👋 My name is Agustín and I am a Full Stack developer with training at
 ### Mi Scusi Book's
 <p>
   <a href="https://mi-scusi-books.vercel.app/"><img  src="https://i.imgur.com/ZoHuxEe.png"></a>
-  <a href="https://mi-scusi-books.vercel.app/login"><img src="blob:https://imgur.com/77ee7b72-2755-4b09-86f0-e81eb4f2acf3"></a>
+  <a href="https://mi-scusi-books.vercel.app/login"><img src="https://i.imgur.com/R4YY5mA.png"></a>
   <a href="https://mi-scusi-books.vercel.app"><img src="https://i.imgur.com/gteM2O0.png"></a>
   <a href="https://mi-scusi-books.vercel.app/book_details/635c7df4633c6074cec33389"><img src="https://i.imgur.com/W4JbiBA.png"></a>
+  <a href="https://mi-scusi-books.vercel.app"><img src="https://i.imgur.com/hLMliOY.png"></a>
 </p>
 
 ### Weather App
