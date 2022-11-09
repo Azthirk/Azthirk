@@ -37,14 +37,8 @@ Hello! 👋 My name is Agustín and I am a Full Stack developer with training at
 ### Poke App
 <p align="center">
   <img width="45%" src="https://i.imgur.com/RO4kEFm.png" alt="Gif" />
-</p>
-<p align="center">
   <img width="45%" src="https://i.imgur.com/6EX6Cd3.png" alt="Gif" />
-</p>
-<p align="center">
   <img width="45%" src="https://i.imgur.com/ssj2Wa7.png" alt="Gif" />
-</p>
-<p align="center">
   <img width="45%" src="https://i.imgur.com/rnCncIT.png" alt="Gif" />
 </p>
 
