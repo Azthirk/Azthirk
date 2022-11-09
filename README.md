@@ -32,6 +32,7 @@ Hello! 👋 My name is Agustín and I am a Full Stack developer with training at
 ### Weather App
 <p align="center">
   <img width="45%" src="https://i.imgur.com/Yj7Vvhe.png" alt="Gif" />
+ <img width="45%" src="https://i.imgur.com/yvCGhvq.png" alt="Gif" />
 </p>
 <a href="https://github.com/Azthirk/WeatherAppMain">Visit site!✨</a>
 
