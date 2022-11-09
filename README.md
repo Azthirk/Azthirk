@@ -27,13 +27,13 @@ Hello! 👋 My name is Agustín and I am a Full Stack developer with training at
   <a href="https://mi-scusi-books.vercel.app/book_details/635c7df4633c6074cec33389"><img width="45%" src="https://i.imgur.com/W4JbiBA.png"></a>
   <a href="https://mi-scusi-books.vercel.app"><img width="45%" src="https://i.imgur.com/hLMliOY.png"></a>
 </p>
-<a href="https://mi-scusi-books.vercel.app/">🎮 Visit site 🎮</a>
+<a href="https://mi-scusi-books.vercel.app/">🎮 Visit site!✨</a>
 
 ### Weather App
 <p align="center">
   <img width="45%" src="https://i.imgur.com/Yj7Vvhe.png" alt="Gif" />
 </p>
-<a href="https://github.com/Azthirk/WeatherAppMain">🎮 Visit site 🎮</a>
+<a href="https://github.com/Azthirk/WeatherAppMain">Visit site!✨</a>
 
 ### Poke App
 <p align="center">
@@ -42,7 +42,7 @@ Hello! 👋 My name is Agustín and I am a Full Stack developer with training at
   <img width="45%" src="https://i.imgur.com/ssj2Wa7.png" alt="Gif" />
   <img width="45%" src="https://i.imgur.com/rnCncIT.png" alt="Gif" />
 </p>
-<a href="https://client-deploy-sigma.vercel.app/">🎮 Visit site 🎮</a>
+<a href="https://client-deploy-sigma.vercel.app/">Visit site!✨</a>
 
 ### Contact me💼
 
