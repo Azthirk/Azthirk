@@ -3,6 +3,9 @@
  Full Stack Developer 
 </h1>
 
+<p>
+  <a href="https://mi-scusi-books.vercel.app/"><img src="https://media-exp1.licdn.com/dms/image/D4D16AQGUXdG6nXKZ0g/profile-displaybackgroundimage-shrink_350_1400/0/1665176380399?e=1673481600&v=beta&t=-x5tzzXpp9EtLQZZsaZH6WgKwWIS4V35rzSGRdOg4FA"></a>
+</p>
 Hello! 👋 My name is Agustín and I am a Full Stack developer with training at the National University of Río Cuarto and Henry Bootcamp, I have a great interest in software development and the ability to learn quickly. I started in the world of development 4 years ago, I learned several technologies, I did some projects, I recently finished Henry Bootcamp and I am currently studying a Computer Analyst degree at UNRC.
 
 ## Languages - GitHub Stats ✨
