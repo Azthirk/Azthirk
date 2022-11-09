@@ -1,8 +1,3 @@
-
-<h1 align="center">
- Full Stack Developer 
-</h1>
-
 <p>
   <img src="https://media-exp1.licdn.com/dms/image/D4D16AQGUXdG6nXKZ0g/profile-displaybackgroundimage-shrink_350_1400/0/1665176380399?e=1673481600&v=beta&t=-x5tzzXpp9EtLQZZsaZH6WgKwWIS4V35rzSGRdOg4FA">
 </p>
