@@ -44,8 +44,6 @@ Hello! 👋 My name is Agustín and I am a Full Stack developer with a degree fr
 </p>
 <a href="https://client-deploy-sigma.vercel.app/">Visit site!✨</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azthirk&label=Profile%20views&color=0e75b6&style=flat" alt="azthirk" /> </p>
-
 ### Contact me💼
 
 <p align="left">
