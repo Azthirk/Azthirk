@@ -1,5 +1,5 @@
 <p>
-  <img src="https://media-exp1.licdn.com/dms/image/D4D16AQGUXdG6nXKZ0g/profile-displaybackgroundimage-shrink_350_1400/0/1665176380399?e=1673481600&v=beta&t=-x5tzzXpp9EtLQZZsaZH6WgKwWIS4V35rzSGRdOg4FA">
+  <img src="https://media.licdn.com/dms/image/D4D16AQGUXdG6nXKZ0g/profile-displaybackgroundimage-shrink_350_1400/0/1665176380399?e=1679529600&v=beta&t=iIObJ2ju9Sipo2tLimGQVbkbNdd5TtggmtDp3Pq5eGs">
 </p>
 
 Hello! 👋 My name is Agustín and I am a Full Stack developer with a degree from the National University of Río Cuarto and Henry. I have a great interest in software development and the ability to learn quickly. I started in the world of development 4 years ago, I learned several technologies, I did some projects, I recently finished Henry's bootcamp and I am currently studying a Computer Analyst degree at UNRC.
