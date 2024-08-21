@@ -22,13 +22,6 @@ Hello! 👋 My name is Agustín and I am a Full Stack developer with a degree fr
 </p>
 <a href="https://mi-scusi-books.vercel.app/">Visit site!✨</a>
 
-### Weather App
-<p align="center">
-  <img width="45%" src="https://i.imgur.com/Yj7Vvhe.png" alt="Gif" />
- <img width="45%" src="https://i.imgur.com/yvCGhvq.png" alt="Gif" />
-</p>
-<a href="https://github.com/Azthirk/WeatherAppMain">Visit site!✨</a>
-
 ### Poke App
 <p align="center">
   <img width="45%" src="https://i.imgur.com/RO4kEFm.png" alt="Gif" />
