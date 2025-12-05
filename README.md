@@ -1,6 +1,7 @@
 Hello! 👋 My name is Agustín and I am a Full Stack developer with a degree from the National University of Río Cuarto and Henry. I have a great interest in software development and the ability to learn quickly. I started in the world of development 4 years ago, I learned several technologies, I did some projects, I recently finished Henry's bootcamp and I am currently studying a Computer Analyst degree at UNRC.
 
 ## Languages - GitHub Stats ✨
+<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azthirk&show_icons=true&theme=dark&locale=en&layout=compact" alt="Azthirk" /></p>
 
 ## Technologies ✨
 
